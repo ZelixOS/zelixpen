@@ -2,6 +2,10 @@
 
 An on-screen drawing and annotation tool written in Python and PyQt6.
 
+![Illustration of the ZelixPen drawing canvas and floating toolbar](docs/images/zelixpen-canvas.svg)
+
+ZelixPen places a transparent drawing layer over the desktop. Draw annotations, then switch to pointer mode to use applications underneath. English, Turkish, and Spanish are available from the language selector.
+
 ## Features
 
 - Freehand drawing, lines, arrows, rectangles, and circles.
